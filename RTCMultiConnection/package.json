@@ -37,7 +37,7 @@
     "muaz-khan"
   ],
   "dependencies": {
-    "socket.io": "0.9.17"
+    "socket.io": "2.5.1"
   },
   "analyze": false,
   "license": "MIT",
